@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I'm Cihan Erdem , I'm 19 years old Computer Programming at Dokuz Eylul University. 2.I'm a class student. I am constantly trying to improve myself<br>- 👀 I’m interested in game development<br>- 🌱 i'm learning unreal engine 5 and unity at the same time I'm trying to improve myself with c++<br>- 📫 E-mail to contact me >> cihaneerdemdiker@gmail.com
+- 👋 Hi, I'm Cihan Erdem , I'm 20 years old Computer Programming at Dokuz Eylul University. 2.I'm a class student. I am constantly trying to improve myself<br>- 👀 I’m interested in game development<br>- 🌱 i'm learning unreal engine 5 and unity at the same time I'm trying to improve myself with c++<br>- 📫 E-mail to contact me >> cihaneerdemdiker@gmail.com
 
 
 ## 🌐 Socials:
